@@ -1,0 +1,32 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#footer{
+    text-align:end;
+    display: flex;
+    justify-content: space-between;
+}
+#header_text {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: cornflowerblue;
+}
+.menu{
+    text-decoration: none;
+    color: black;
+}
+#introduction{
+    margin: auto 100px;
+}
+#BGIMG{
+    background-image:url(imagens/bgimg.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+    width:100%;
+    height: 420px;
+}
