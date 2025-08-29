@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #footer{
     text-align:end;
@@ -21,7 +22,9 @@
     color: black;
 }
 #introduction{
-    margin: auto 100px;
+    margin: 30px auto;
+    width: 70%;
+    font-size: 17px;
 }
 #BGIMG{
     background-image:url(imagens/bgimg.png);
